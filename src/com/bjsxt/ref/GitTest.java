@@ -5,6 +5,5 @@ public class GitTest {
         System.out.println("第一次新增GitTest");
         System.out.println("第2次新增GitTest");
         System.out.println("第3次新增GitTest");
-        System.out.println("第4次新增GitTest");
     }
 }
