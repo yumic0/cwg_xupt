@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("第3次新增GitTest");
 
         System.out.println("dev01分支中新增代码");
+
+        System.out.println("master分支新增代码 第5次提交");
     }
 }
